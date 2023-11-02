@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GE3A04\\AcePilot\\Source\\AcePilot\\AcePilot.Build.cs",
+		"D:\\GE3A04\\AcePilot\\Source\\AcePilot.Target.cs",
+		"D:\\GE3A04\\AcePilot\\Source\\AcePilotEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

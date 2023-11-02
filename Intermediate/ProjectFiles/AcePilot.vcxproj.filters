@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AcePilot.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3A6A3FF1-2BE7-4B9B-B1D9-71172AC47A6F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AcePilot.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AcePilotEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{49506ECE-D6E4-447D-86B1-D9CAAD413669}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AcePilot">
+      <UniqueIdentifier>{7E995BB3-6176-4B22-A0D9-F4D8D022F50B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AcePilot\AcePilot.Build.cs">
+      <Filter>Source\AcePilot</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AcePilot\AcePilot.cpp">
+      <Filter>Source\AcePilot</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AcePilot\AcePilot.h">
+      <Filter>Source\AcePilot</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AcePilot\AcePilotGameMode.cpp">
+      <Filter>Source\AcePilot</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AcePilot\AcePilotGameMode.h">
+      <Filter>Source\AcePilot</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AcePilot\AcePilotPawn.cpp">
+      <Filter>Source\AcePilot</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AcePilot\AcePilotPawn.h">
+      <Filter>Source\AcePilot</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AcePilot",
+			"Path": "D:\\GE3A04\\AcePilot\\Source\\AcePilot.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AcePilotEditor",
+			"Path": "D:\\GE3A04\\AcePilot\\Source\\AcePilotEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

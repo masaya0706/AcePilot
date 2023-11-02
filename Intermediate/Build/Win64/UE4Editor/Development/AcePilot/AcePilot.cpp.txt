@@ -1,0 +1,2 @@
+D:\GE3A04\AcePilot\Intermediate\Build\Win64\UE4Editor\Development\AcePilot\Definitions.AcePilot.h
+D:\GE3A04\AcePilot\Source\AcePilot\AcePilot.h

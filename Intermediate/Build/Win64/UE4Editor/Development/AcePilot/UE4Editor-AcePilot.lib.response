@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AcePilot.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GE3A04\AcePilot\Intermediate\Build\Win64\AcePilotEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\GE3A04\AcePilot\Intermediate\Build\Win64\UE4Editor\Development\AcePilot\AcePilot.cpp.obj"
+"D:\GE3A04\AcePilot\Intermediate\Build\Win64\UE4Editor\Development\AcePilot\AcePilotGameMode.cpp.obj"
+"D:\GE3A04\AcePilot\Intermediate\Build\Win64\UE4Editor\Development\AcePilot\AcePilotPawn.cpp.obj"
+"D:\GE3A04\AcePilot\Intermediate\Build\Win64\UE4Editor\Development\AcePilot\AcePilot.init.gen.cpp.obj"
+"D:\GE3A04\AcePilot\Intermediate\Build\Win64\UE4Editor\Development\AcePilot\AcePilotGameMode.gen.cpp.obj"
+"D:\GE3A04\AcePilot\Intermediate\Build\Win64\UE4Editor\Development\AcePilot\AcePilotPawn.gen.cpp.obj"
+"D:\GE3A04\AcePilot\Intermediate\Build\Win64\UE4Editor\Development\AcePilot\Default.rc2.res"
+/OUT:"D:\GE3A04\AcePilot\Intermediate\Build\Win64\UE4Editor\Development\AcePilot\UE4Editor-AcePilot.lib"
